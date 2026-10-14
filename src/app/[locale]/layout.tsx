@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Dead of Darkness 2 Wiki - Guide, Walkthrough & Secrets", description: "Explore Dead of Darkness 2 Wiki for horror guides, walkthroughs, characters, secrets, gameplay tips, and everything needed to survive the dark adventure.", images: [{ url: image, width: 1920, height: 1080, alt: "Dead of Darkness 2 key art" }] },
+    twitter: { card: "summary_large_image", title: "Dead of Darkness 2 Wiki - Guide, Walkthrough & Secrets", description: "Explore Dead of Darkness 2 Wiki for horror guides, walkthroughs, characters, secrets, gameplay tips, and everything needed to survive the dark adventure.", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }

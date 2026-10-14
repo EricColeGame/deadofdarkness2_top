@@ -9,6 +9,7 @@ export interface SiteConfig {
   gameUrl?: string;
   heroVideoId?: string;
   social?: {
+    website?: string;
     discord?: string;
     youtube?: string;
     twitter?: string;
@@ -25,10 +26,11 @@ export const siteConfig: SiteConfig = {
   tagline: "Horror Survival Guides, Walkthroughs & Secrets",
   description: "Your ultimate Dead of Darkness 2 wiki: story walkthroughs, characters, weapons, enemies, puzzle solutions, and survival horror tips.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://deadofdarkness2.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://deadofdarkness2.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@deadofdarkness2.top",
   gameUrl: "https://store.steampowered.com/app/3947120/Dead_of_Darkness_2/",
   heroVideoId: "SAOW5DFqD5o", // Dead of Darkness 2 - Announcement Trailer (official Retrofiction Games channel)
   social: {
+    website: "https://www.deadofdarkness.com/",
     discord: "https://discord.gg/BEagkW6D38",
     youtube: "https://www.youtube.com/@retrofictiongames",
   },

@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Dead of Darkness 2 Wiki",
+    "shortName": "Dead of Darkness 2",
+    "tagline": "Survival Horror Guides, Walkthroughs & Secrets",
+    "description": "Explore Dead of Darkness 2 Wiki for horror guides, walkthroughs, characters, secrets, gameplay tips, and everything needed to survive the dark adventure.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Dead of Darkness 2 Wiki - Guide, Walkthrough & Secrets",
+      "description": "Explore Dead of Darkness 2 Wiki for horror guides, walkthroughs, characters, secrets, gameplay tips, and everything needed to survive the dark adventure."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Survival Horror Adventure Game",
+      "title": "Dead of Darkness 2 Wiki",
+      "description": "Dead of Darkness 2 is a horror adventure game focused on exploration, mystery solving, survival challenges, and uncovering dark secrets through an atmospheric gameplay experience.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Story & Lore",
+        "Characters & Cast",
+        "Maps & Puzzles",
+        "Survival Tips"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Play on Steam",
+      "tertiaryCta": "Watch Official Trailer",
+      "videoLabel": "Official Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Dead of Darkness 2?",
+      "description": "From your first steps in Goldren Creek to the deepest secrets of the darkness, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Dead of Darkness 2 Wiki",
+    "about": "Dead of Darkness 2 Wiki is an independent fan-built guide hub covering the story, characters, maps, puzzles, endings, and survival horror tips for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Dead of Darkness 2 Wiki. Not affiliated with Retrofiction Games or Dead of Darkness 2.",
+    "description": "A story-driven survival horror adventure set in Goldren Creek. Explore files, solve puzzles, and survive the dark.",
+    "playGame": "Play Dead of Darkness 2 on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
