@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Dead of Darkness 2 Wiki",
+    "shortName": "Dead of Darkness 2",
+    "tagline": "Survival-Horror-Guides, Komplettlösungen & Geheimnisse",
+    "description": "Entdecke das Dead of Darkness 2 Wiki mit Horror-Guides, Komplettlösungen, Charakteren, Geheimnissen, Spieltipps und allem, was du brauchst, um das dunkle Abenteuer zu überleben.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "characters": "Charaktere",
+    "maps": "Karten",
+    "mechanics": "Mechaniken",
+    "platforms": "Plattformen",
+    "release": "Release",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Dead of Darkness 2 Wiki - Guide, Komplettlösung & Geheimnisse",
+      "description": "Entdecke das Dead of Darkness 2 Wiki mit Horror-Guides, Komplettlösungen, Charakteren, Geheimnissen, Spieltipps und allem, was du brauchst, um das dunkle Abenteuer zu überleben."
+    },
+    "hero": {
+      "eyebrow": "Survival-Horror-Abenteuerspiel",
+      "title": "Dead of Darkness 2 Wiki",
+      "description": "Dead of Darkness 2 ist ein Horror-Abenteuerspiel mit Fokus auf Erkundung, Rätsellösung, Überlebensherausforderungen und dem Aufdecken dunkler Geheimnisse in einer atmosphärischen Spielerfahrung.",
+      "stats": [
+        "Story & Lore",
+        "Charaktere & Besetzung",
+        "Karten & Rätsel",
+        "Überlebenstipps"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Auf Steam spielen",
+      "tertiaryCta": "Offiziellen Trailer ansehen",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise durch Dead of Darkness 2",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne die Survival-Horror-Grundlagen von Goldren Creek kennen: Charakterwechsel, ein gewichtsbegrenztes Inventar und die Ressourcengewohnheiten, die deine ersten Stunden überleben lassen."
+        },
+        {
+          "number": "2",
+          "title": "Kampf-Grundlagen",
+          "description": "Munition und Heilung sind knapp, also lerne das Timing von Messer und Axt, wann eine Kugel ihr Opfer wert ist und wie du lebend aus einem Hinterhalt entkommst."
+        },
+        {
+          "number": "3",
+          "title": "Charakterwechsel",
+          "description": "Wechsle zwischen bis zu drei Charakteren, nutze ihre Positionen zum Lösen von Rätseln und verteile die Ausrüstung vor einem Kampf über die gemeinsame Gegenstandskiste."
+        },
+        {
+          "number": "4",
+          "title": "Herstellung & Verbesserungen",
+          "description": "Kombiniere Heilgegenstände zu stärkeren Medikits und investiere Waffenteile in die Schusswaffe, die du tatsächlich trägst, um ein knappes Loadout zu strecken."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Charakterwechsel",
+        "Waffen-Tier-Liste",
+        "Alle Bosse"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Starte deine erste Nacht in Goldren Creek mit einem Plan für Steuerung, Inventar und Überleben.",
+          "href": "/guide/dead-of-darkness-2-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Status des Release-Datums",
+          "description": "Alles Bestätigte zum Release-Datum von Dead of Darkness 2, zu den Plattformen und zum Wunschlisten-Status.",
+          "href": "/release/dead-of-darkness-2-release-date"
+        },
+        {
+          "badge": "Neu",
+          "title": "Charaktere & Besetzung",
+          "description": "Jun Takehara, Felton und die 28-köpfige Besetzung hinter dem Geheimnis von Goldren Creek.",
+          "href": "/characters/dead-of-darkness-2-characters"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Waffen & Kampf",
+          "description": "Messer, Äxte, Maschinenpistolen und Flammenwerfer nach Munitionskosten und Gewicht bewertet.",
+          "href": "/mechanics/dead-of-darkness-2-combat"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Bosse & Gegner",
+          "description": "Wie du dich auf die Schrecken von Goldren Creek vorbereitest, wenn jede Kugel zählt.",
+          "href": "/guide/dead-of-darkness-2-bosses"
+        },
+        {
+          "badge": "Neu",
+          "title": "Rätsel & Geheimnisse",
+          "description": "Hinweissuche, verborgene Wege und Charakterwechsel in jedem Rätselraum.",
+          "href": "/mechanics/dead-of-darkness-2-puzzles"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Karten & Navigation",
+          "description": "Routenplanung, Tragegewicht und isometrische Erkundung der ganzen Stadt.",
+          "href": "/maps/dead-of-darkness-2-map"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Überlebenstipps",
+          "description": "Zwölf Strategien für Ressourcenmanagement, Loadouts und Erkundung.",
+          "href": "/guide/dead-of-darkness-2-tips"
+        },
+        {
+          "badge": "Neu",
+          "title": "Plattformen & Ports",
+          "description": "Bestätigte Konsolen- und PC-Plattformen für die Retro-Survival-Horror-Fortsetzung.",
+          "href": "/platforms/dead-of-darkness-2-console"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Dead of Darkness 2?",
+      "paragraphs": [
+        "Dead of Darkness 2 ist die Fortsetzung von Dead of Darkness (2025), entwickelt und auf PC selbst veröffentlicht vom Ein-Mann-Studio Retrofiction Games. Die Geschichte beginnt im ländlichen Pennsylvania des Jahres 1985, wo Jun Takehara mit ihrem alten Freund Felton ein ruhiges Leben in einem Trailer tief in den Appalachen führt.",
+        "Nachdem Jun im Wald ein verletztes Mädchen ohne Erinnerungen findet, tauchen zwei verdächtige Polizisten auf und die Nacht stürzt in einen Albtraum, der mit der Stadt Goldren Creek verbunden ist. In isometrischer 2D-Ansicht neu aufgebaut, setzt die Fortsetzung auf klassischen Survival-Horror: knappe Munition, ein gewichtsbegrenztes Inventar, Herstellung, Rätsel und den Wechsel zwischen bis zu drei Charakteren."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Retrofiction Games"
+        },
+        {
+          "label": "Genre",
+          "value": "Survival Horror"
+        },
+        {
+          "label": "Schauplatz",
+          "value": "Ländliches Pennsylvania, 1985"
+        },
+        {
+          "label": "Perspektive",
+          "value": "Isometrisch 2D"
+        },
+        {
+          "label": "Besetzung",
+          "value": "28 Charaktere"
+        },
+        {
+          "label": "Release",
+          "value": "Noch nicht bekannt"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Dead of Darkness 2 Wiki erkunden",
+      "description": "Überlebe Goldren Creek mit bestätigten Release-Details, Analysen zu Story und Charakteren, Waffen- und Kampf-Guides, Rätselhilfe und Einsteiger-Überlebenstipps.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Release-Informationen zu Dead of Darkness 2",
+          "description": "Verfolge die neuesten Release-Details, bestätigte Plattformen, den Verfügbarkeitsstatus und offizielle Ankündigungen zu Dead of Darkness 2 vor dem Starttag.",
+          "href": "/release/dead-of-darkness-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plattformen",
+              "detail": "PC, PS5, PS4, Xbox und Switch, mit eastasiasoft für die Konsolen-Ports"
+            },
+            {
+              "label": "Release",
+              "detail": "Noch nicht bekannt, Wunschlisten-Eintrag ist auf Steam und GOG möglich"
+            },
+            {
+              "label": "Publisher",
+              "detail": "Retrofiction Games veröffentlicht PC selbst; eastasiasoft übernimmt die Konsolen"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Story-Guide zu Dead of Darkness 2",
+          "description": "Folge dem erzählerischen Aufbau, den Charakteren und dem Geheimnis von Goldren Creek, vom verletzten Mädchen im Wald bis zu den in der Stadt begrabenen Geheimnissen.",
+          "href": "/guide/dead-of-darkness-2-ending",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Schauplatz",
+              "detail": "Ländliches Pennsylvania, 1985, und die geheime Stadt Goldren Creek"
+            },
+            {
+              "label": "Hauptfiguren",
+              "detail": "Jun Takehara und Felton werden von einem verletzten Mädchen hineingezogen"
+            },
+            {
+              "label": "Geheimnis",
+              "detail": "28 Charaktere, jeder mit dem zentralen Geheimnis der Stadt verbunden"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Gameplay-Guide zu Dead of Darkness 2",
+          "description": "Lerne die Kernsysteme kennen, die jeden Raum prägen: Charakterwechsel, gemeinsamer Gegenstandsspeicher, Inventargewicht, Herstellung und knappe Ressourcen.",
+          "href": "/mechanics/dead-of-darkness-2-survival-horror",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erkunde Räume und lies jede Akte, um Hinweise zu finden"
+            },
+            {
+              "label": "2",
+              "detail": "Wechsle zwischen bis zu drei Charakteren, um Rätsel zu lösen"
+            },
+            {
+              "label": "3",
+              "detail": "Verteile Ausrüstung über die gemeinsame Gegenstandskiste zwischen Charakteren"
+            },
+            {
+              "label": "4",
+              "detail": "Achte auf das Inventargewicht, um bei einer Verfolgung beweglich zu bleiben"
+            },
+            {
+              "label": "5",
+              "detail": "Kombiniere Heilgegenstände und verbessere Waffen mit gefundenen Teilen"
+            },
+            {
+              "label": "6",
+              "detail": "Meide Kämpfe, die du nicht gewinnen kannst, und spare Munition für schlimmere Räume"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Charakter-Guide zu Dead of Darkness 2",
+          "description": "Lerne die spielbaren und unterstützenden Charaktere von Goldren Creek kennen und erfahre, wie jeder in das Survival-Horror-Geheimnis passt.",
+          "href": "/characters/dead-of-darkness-2-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jun",
+              "detail": "Die Protagonistin, die still in den Wäldern der Appalachen lebt"
+            },
+            {
+              "label": "Felton",
+              "detail": "Ein alter Veteran und Freund von Juns verstorbenem Vater"
+            },
+            {
+              "label": "Mädchen",
+              "detail": "Ein verletztes Kind ohne Erinnerungen, das im Wald gefunden wird"
+            },
+            {
+              "label": "Besetzung",
+              "detail": "28 benannte Charaktere, die mit dem Geheimnis von Goldren Creek verbunden sind"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Waffen-Guide zu Dead of Darkness 2",
+          "description": "Vergleiche jede bestätigte Waffenklasse nach Schaden, Munitionskosten und Tragegewicht und erfahre, welches Loadout zu welcher Art von Begegnung passt.",
+          "href": "/mechanics/dead-of-darkness-2-combat",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Messer: keine Munitionskosten, leicht, ideal zum Erledigen geschwächter Gegner"
+            },
+            {
+              "label": "A",
+              "detail": "Axt: starkes Taumeln und Crowd-Control, aber langsam und schwer"
+            },
+            {
+              "label": "B",
+              "detail": "Maschinenpistole: Burst-Schaden für volle Räume, sehr munitionshungrig"
+            },
+            {
+              "label": "C",
+              "detail": "Flammenwerfer: Flächenkontrolle mit seltenem Treibstoff und sehr schwerer Ausrüstungslast"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Gegner-Guide zu Dead of Darkness 2",
+          "description": "Bereite dich mit Strategien rund um Munitionsknappheit und Survival-Horror-Tempo auf feindliche Begegnungen, Verfolgungen und geskriptete Kämpfe vor.",
+          "href": "/guide/dead-of-darkness-2-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gegner",
+              "detail": "Feindliche Begegnungen belohnen Geduld mehr als rohe Feuerkraft"
+            },
+            {
+              "label": "Bosse",
+              "detail": "Behandle geskriptete Kämpfe als inszenierte Szenen, nicht als Schadensrennen"
+            },
+            {
+              "label": "Verfolgungen",
+              "detail": "Positioniere dich neu und nutze Türen statt offener Kämpfe"
+            },
+            {
+              "label": "Vorbereitung",
+              "detail": "Führe ein Notfall-Medikit für geskriptete Begegnungen mit"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Einsteiger-Guide zu Dead of Darkness 2",
+          "description": "Ein einsteigerfreundlicher Weg durch deine ersten Stunden: Steuerung, Wahl der Grundausrüstung, Ressourcengewohnheiten und die Fehler, die Runs früh beenden.",
+          "href": "/guide/dead-of-darkness-2-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Wähle den Schwierigkeitsgrad und stelle das Audio vor dem Start ein"
+            },
+            {
+              "label": "2",
+              "detail": "Lerne zuerst die Tasten für Inventar und Gegenstandskombination"
+            },
+            {
+              "label": "3",
+              "detail": "Stelle eine Grundausrüstung zusammen: eine Nahkampfwaffe, eine Schusswaffe, Heilung"
+            },
+            {
+              "label": "4",
+              "detail": "Öffne die gemeinsame Kiste, sobald du einen neuen Charakter bekommst"
+            },
+            {
+              "label": "5",
+              "detail": "Erledige geschwächte Gegner mit dem Messer, um Kugeln zu sparen"
+            },
+            {
+              "label": "6",
+              "detail": "Spare ein Notfall-Medikit für geskriptete Räume und Bossräume auf"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Neuigkeiten zu Dead of Darkness 2",
+          "description": "Sammle offizielle Entwicklungs-Updates, Trailer und Ankündigungen, um die nächste Enthüllung zu Dead of Darkness 2 zu verfolgen.",
+          "href": "/release/dead-of-darkness-2-news",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "TBA",
+              "detail": "Release-Termine für Steam und GOG noch nicht bekannt",
+              "badge": "Ausstehend"
+            },
+            {
+              "label": "2025",
+              "detail": "Dead of Darkness erschien im Januar 2025",
+              "badge": "Erschienen"
+            },
+            {
+              "label": "1985",
+              "detail": "Die Story der Fortsetzung spielt im ländlichen Pennsylvania, 1985",
+              "badge": "Bestätigt"
+            },
+            {
+              "label": "v1.0",
+              "detail": "Jetzt auf die Wunschliste setzen für Benachrichtigungen am Starttag",
+              "badge": "Wunschliste"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Dead of Darkness 2 FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Dead of Darkness 2.",
+      "items": [
+        {
+          "question": "Was ist Dead of Darkness 2?",
+          "answer": "Dead of Darkness 2 ist ein isometrisches 2D-Survival-Horror-Spiel von Retrofiction Games. Es ist die Fortsetzung von Dead of Darkness (2025) und folgt Jun Takehara und Felton durch das Geheimnis von Goldren Creek im ländlichen Pennsylvania des Jahres 1985."
+        },
+        {
+          "question": "Wann erscheint Dead of Darkness 2?",
+          "answer": "Ein Release-Datum wurde noch nicht angekündigt. Dead of Darkness 2 ist auf Steam und GOG als noch nicht bekannt gelistet, wo du es für Release-Updates auf die Wunschliste setzen kannst."
+        },
+        {
+          "question": "Auf welchen Plattformen erscheint Dead of Darkness 2?",
+          "answer": "Dead of Darkness 2 ist für PC auf Steam und GOG sowie für PS5, PS4, Xbox und Nintendo Switch bestätigt, wobei eastasiasoft die Konsolen-Ports übernimmt."
+        },
+        {
+          "question": "Kann man in Dead of Darkness 2 die Charaktere wechseln?",
+          "answer": "Ja. In Dead of Darkness 2 kannst du in bestimmten Abschnitten zwischen bis zu drei Charakteren wechseln, und die Entwickler nutzen diese Mechanik für Rätsel, das Teilen von Ausrüstung über eine gemeinsame Gegenstandskiste und die Flucht vor Gegnern."
+        },
+        {
+          "question": "Gibt es Koop oder Mehrspieler in Dead of Darkness 2?",
+          "answer": "Nein. Dead of Darkness 2 ist ein Survival-Horror-Spiel für einen Spieler, es gibt also keinen Koop- oder Mehrspielermodus."
+        },
+        {
+          "question": "Wie sollten Einsteiger mit Dead of Darkness 2 beginnen?",
+          "answer": "Lies unseren Einsteiger-Guide zu Dead of Darkness 2: Lerne die Tasten für Inventar und Kombination, halte eine leichte Grundausrüstung bereit, erledige geschwächte Gegner mit dem Messer und spare ein Notfall-Medikit für geskriptete Begegnungen auf."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Dead of Darkness 2 zu meistern?",
+      "description": "Von deinen ersten Schritten in Goldren Creek bis zu den tiefsten Geheimnissen der Dunkelheit begleitet dich unser Community-Wiki mit kostenlosen, aktuellen Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Dead of Darkness 2 Guide",
+    "overviewDescription": "Komplettlösungen, Boss-Vorbereitung, Schwierigkeitsgrade, Tipps und Endings für Dead of Darkness 2 in Goldren Creek."
+  },
+  "characters": {
+    "overviewTitle": "Dead of Darkness 2 Charaktere",
+    "overviewDescription": "Lerne die Besetzung von Dead of Darkness 2 kennen, von Jun Takehara und Felton bis zu Jimmy, Kat, The Great Hugo und dem weiteren Personal von Goldren Creek."
+  },
+  "maps": {
+    "overviewTitle": "Dead of Darkness 2 Karten",
+    "overviewDescription": "Navigations- und Layout-Guides zu Dead of Darkness 2 mit Goldren Creek, dem zweiten Stock und der Routenplanung."
+  },
+  "mechanics": {
+    "overviewTitle": "Dead of Darkness 2 Mechaniken",
+    "overviewDescription": "Kampf, Steuerung, Rätsel, Geheimnisse und Survival-Horror-Systeme für Dead of Darkness 2 erklärt."
+  },
+  "platforms": {
+    "overviewTitle": "Dead of Darkness 2 Plattformen",
+    "overviewDescription": "Plattform- und Port-Details zu Dead of Darkness 2 für PS5, PS4, Xbox, Switch und PC."
+  },
+  "release": {
+    "overviewTitle": "Dead of Darkness 2 Release",
+    "overviewDescription": "Status des Release-Datums, Trailer, Teaser und die neuesten Nachrichten zu Dead of Darkness 2."
+  },
+  "community": {
+    "overviewTitle": "Dead of Darkness 2 Community",
+    "overviewDescription": "Community-Diskussionen, Reddit-Gespräche und Leak-Zusammenfassungen zu Dead of Darkness 2."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Dead of Darkness 2 Wiki",
+    "about": "Das Dead of Darkness 2 Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub, der Story, Charaktere, Karten, Rätsel, Endings und Survival-Horror-Tipps für neue und erfahrene Spieler abdeckt.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Dead of Darkness 2 Wiki. Nicht mit Retrofiction Games oder Dead of Darkness 2 verbunden.",
+    "description": "Ein storygetriebenes Survival-Horror-Abenteuer in Goldren Creek. Erkunde Akten, löse Rätsel und überlebe die Dunkelheit.",
+    "playGame": "Dead of Darkness 2 auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizielle Website",
+    "beginnerGuide": "Einsteiger-Guide",
+    "characterGuides": "Charakter-Guides",
+    "bossGuides": "Boss-Guides",
+    "mechanicsGuides": "Mechaniken",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
