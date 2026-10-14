@@ -9,14 +9,7 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guide",
-    "characters": "Characters",
-    "maps": "Maps",
-    "mechanics": "Mechanics",
-    "platforms": "Platforms",
-    "release": "Release",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -424,34 +417,13 @@
       "secondary": "Play on Steam"
     }
   },
-  "guide": {
-    "overviewTitle": "Dead of Darkness 2 Guide",
-    "overviewDescription": "Walkthroughs, boss prep, difficulty settings, tips, and ending breakdowns for Dead of Darkness 2 in Goldren Creek."
-  },
-  "characters": {
-    "overviewTitle": "Dead of Darkness 2 Characters",
-    "overviewDescription": "Meet the Dead of Darkness 2 cast, from Jun Takehara and Felton to Jimmy, Kat, The Great Hugo, and the wider Goldren Creek roster."
-  },
-  "maps": {
-    "overviewTitle": "Dead of Darkness 2 Maps",
-    "overviewDescription": "Navigation and layout guides for Dead of Darkness 2, covering Goldren Creek, the second floor, and route planning."
-  },
-  "mechanics": {
-    "overviewTitle": "Dead of Darkness 2 Mechanics",
-    "overviewDescription": "Combat, controls, puzzles, secrets, and survival horror systems explained for Dead of Darkness 2."
-  },
-  "platforms": {
-    "overviewTitle": "Dead of Darkness 2 Platforms",
-    "overviewDescription": "Platform and port details for Dead of Darkness 2 across PS5, PS4, Xbox, Switch, and PC."
-  },
-  "release": {
-    "overviewTitle": "Dead of Darkness 2 Release",
-    "overviewDescription": "Release date status, trailers, teasers, and the latest Dead of Darkness 2 news."
-  },
-  "community": {
-    "overviewTitle": "Dead of Darkness 2 Community",
-    "overviewDescription": "Community discussion, Reddit talk, and leak roundups for Dead of Darkness 2."
-  },
+  "guide": {},
+  "characters": {},
+  "maps": {},
+  "mechanics": {},
+  "platforms": {},
+  "release": {},
+  "community": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
