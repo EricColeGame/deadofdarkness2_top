@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.gg/BEagkW6D38",
     youtube: "https://www.youtube.com/@retrofictiongames",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "de"],
   defaultLocale: "en",
 };
