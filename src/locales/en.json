@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Dead of Darkness 2 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the survival horror basics of Goldren Creek with our beginner guide covering controls, character switching, and your first hours in the dark."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Ammo is scarce and enemies hit hard. Learn knife and axe timing, when to spend a bullet, and how to break out of an ambush alive."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Crafting & Upgrades",
+          "description": "Combine healing items into stronger medkits and spend weapon parts wisely to turn a fragile kit into a reliable survival loadout."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Survival Tips",
+          "description": "Manage inventory weight, ration supplies, and read every file to survive the mysteries waiting in Goldren Creek."
         }
       ]
     },
@@ -66,265 +66,347 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Character Switching",
+        "Weapons Tier List",
+        "All Bosses"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start your first night in Goldren Creek with a plan for controls, inventory, and survival.",
+          "href": "/guide/dead-of-darkness-2-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Release Date Status",
+          "description": "Everything confirmed about the Dead of Darkness 2 release date, platforms, and wishlist status.",
+          "href": "/release/dead-of-darkness-2-release-date"
+        },
+        {
+          "badge": "New",
+          "title": "Characters & Cast",
+          "description": "Jun Takehara, Felton, and the 28-person cast behind the mystery of Goldren Creek.",
+          "href": "/characters/dead-of-darkness-2-characters"
+        },
+        {
+          "badge": "Popular",
+          "title": "Weapons & Combat",
+          "description": "Knives, axes, submachine guns, and flamethrowers weighed by ammo cost and load.",
+          "href": "/mechanics/dead-of-darkness-2-combat"
+        },
+        {
+          "badge": "Popular",
+          "title": "Bosses & Enemies",
+          "description": "How to prepare for the horrors of Goldren Creek when every bullet counts.",
+          "href": "/guide/dead-of-darkness-2-bosses"
+        },
+        {
+          "badge": "New",
+          "title": "Puzzles & Secrets",
+          "description": "Clue hunting, hidden pathways, and character switching for every puzzle room.",
+          "href": "/mechanics/dead-of-darkness-2-puzzles"
+        },
+        {
+          "badge": "Popular",
+          "title": "Maps & Navigation",
+          "description": "Route planning, carry weight, and isometric exploration across the town.",
+          "href": "/maps/dead-of-darkness-2-map"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Survival Tips",
+          "description": "Twelve strategies for resource management, loadouts, and exploration.",
+          "href": "/guide/dead-of-darkness-2-tips"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Platforms & Ports",
+          "description": "Confirmed console and PC platforms for the retro survival horror sequel.",
+          "href": "/platforms/dead-of-darkness-2-console"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Dead of Darkness 2?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Dead of Darkness 2 is the sequel to Dead of Darkness (2025), developed and published by Retrofiction Games. The story opens in Pennsylvania, 1985, where Jun Takehara and her old friend Felton are pulled into a nightmare after finding a wounded girl deep in the Appalachian woods.",
+        "Rebuilt in a full isometric 2D view, the sequel leans into classic survival horror: scarce ammo, a weight-limited inventory, crafting, puzzles, and seamless switching between up to three characters. Our wiki covers every confirmed system, character, and location in Goldren Creek."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
+          "value": "Retrofiction Games"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Survival Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Setting",
+          "value": "Goldren Creek, 1985"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Perspective",
+          "value": "Isometric 2D"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Cast",
+          "value": "28 Characters"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release",
+          "value": "To Be Announced"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Dead of Darkness 2 Wiki",
+      "description": "Survive Goldren Creek with confirmed release details, story and character breakdowns, weapon and combat guides, puzzle help, and beginner survival tips.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Dead of Darkness 2 Release Information",
+          "description": "Track the latest release details, confirmed platforms, availability status, and official announcements for Dead of Darkness 2 before launch day.",
+          "href": "/release/dead-of-darkness-2-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Platforms",
+              "detail": "Confirmed for PC, PS5, PS4, Xbox, and Switch 2"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Release",
+              "detail": "No release date yet the game is wishlist-only on Steam"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Developer",
+              "detail": "Built and published by Retrofiction Games"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Dead of Darkness 2 Story Guide",
+          "description": "Follow the narrative setup, characters, and the mystery of Goldren Creek, from the wounded girl in the woods to the secrets buried in the town.",
+          "href": "/guide/dead-of-darkness-2-ending",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Setting",
+              "detail": "Pennsylvania, 1985 the Appalachians and the town of Goldren Creek"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Leads",
+              "detail": "Jun Takehara and Felton are drawn into the nightmare"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Mystery",
+              "detail": "A 28-character cast all tied to one central secret"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Dead of Darkness 2 Gameplay Guide",
+          "description": "Learn the core systems that shape every room: character switching, shared item storage, inventory weight, crafting, and scarce resources.",
+          "href": "/mechanics/dead-of-darkness-2-survival-horror",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Explore rooms and read every file to uncover clues"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Switch between up to three characters to solve puzzles"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Pass gear through the shared item box between characters"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Watch your inventory weight so you stay mobile"
+            },
+            {
+              "label": "5",
+              "detail": "Combine healing items and upgrade weapons with found parts"
+            },
+            {
+              "label": "6",
+              "detail": "Skip fights you cannot win and save ammo for worse rooms"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Dead of Darkness 2 Characters Guide",
+          "description": "Meet the playable and supporting characters of Goldren Creek and how each one fits into the survival horror mystery.",
+          "href": "/characters/dead-of-darkness-2-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Jun",
+              "detail": "The protagonist, living quietly in the Appalachian woods"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Felton",
+              "detail": "A veteran and old friend of Jun's late father"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Girl",
+              "detail": "A wounded, memoryless child found in the forest"
+            },
+            {
+              "label": "Cast",
+              "detail": "28 named characters connected to Goldren Creek"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Dead of Darkness 2 Weapons Guide",
+          "description": "Compare every confirmed weapon class by damage, ammo cost, and carry weight, and learn which loadout fits each kind of encounter.",
+          "href": "/mechanics/dead-of-darkness-2-combat",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Knife no ammo cost and very light for finishing weakened enemies"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Axe high damage and staggers, ideal for single tough foes"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Submachine Gun rapid crowd control, but ammo hungry and heavy"
+            },
+            {
+              "label": "C",
+              "detail": "Flamethrower area denial with rare fuel and heavy weight"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Dead of Darkness 2 Enemies Guide",
+          "description": "Prepare for hostile encounters, chases, and scripted fights with strategies built around ammo scarcity and survival horror pacing.",
+          "href": "/guide/dead-of-darkness-2-bosses",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Enemies",
+              "detail": "Hostile encounters reward patience over raw firepower"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Bosses",
+              "detail": "No boss roster confirmed yet, so prep with ammo discipline"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Chases",
+              "detail": "Reposition and use doorways instead of open fights"
+            },
+            {
+              "label": "Prep",
+              "detail": "Carry a panic medkit for scripted encounters"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dead of Darkness 2 Beginner Guide",
+          "description": "A beginner-friendly path through your first hours: controls, core kit choices, resource habits, and the mistakes that end runs early.",
+          "href": "/guide/dead-of-darkness-2-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Pick your difficulty and tune the audio before you start"
+            },
+            {
+              "label": "2",
+              "detail": "Learn your inventory and item-combine buttons first"
+            },
+            {
+              "label": "3",
+              "detail": "Decide a core kit: one melee weapon, one firearm, healing"
+            },
+            {
+              "label": "4",
+              "detail": "Open the shared box whenever you gain a new character"
+            },
+            {
+              "label": "5",
+              "detail": "Finish weakened enemies with the knife to save bullets"
+            },
+            {
+              "label": "6",
+              "detail": "Bank one panic medkit for scripted and boss rooms"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dead of Darkness 2 News Updates",
+          "description": "Collect official development updates, trailers, and announcements so you can track the next Dead of Darkness 2 reveal.",
+          "href": "/release/dead-of-darkness-2-news",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "TBA",
+              "detail": "Steam release date still to be announced",
+              "badge": "Pending"
+            },
+            {
+              "label": "2025",
+              "detail": "First Dead of Darkness launched in January 2025",
+              "badge": "Released"
+            },
+            {
+              "label": "1985",
+              "detail": "Sequel story is set in Pennsylvania, 1985",
+              "badge": "Confirmed"
+            },
+            {
+              "label": "v1.0",
+              "detail": "Wishlist now for launch-day notifications on Steam",
+              "badge": "Wishlist"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Dead of Darkness 2 FAQ",
+      "description": "Quick answers to the most common questions about Dead of Darkness 2.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Dead of Darkness 2?",
+          "answer": "Dead of Darkness 2 is an isometric 2D survival horror game from Retrofiction Games. It is the sequel to Dead of Darkness (2025) and follows Jun Takehara and Felton through the mystery of Goldren Creek in Pennsylvania, 1985."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Dead of Darkness 2 release?",
+          "answer": "No release date has been announced yet. Dead of Darkness 2 is currently listed as to be announced on Steam, where you can wishlist it for launch updates."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What platforms is Dead of Darkness 2 on?",
+          "answer": "Dead of Darkness 2 is confirmed for PC via Steam, with console versions announced for PS5, PS4, Xbox, and Switch 2."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can you switch characters in Dead of Darkness 2?",
+          "answer": "Yes. Dead of Darkness 2 lets you switch between up to three characters in certain sections, and the developers use that mechanic for puzzles, sharing gear through a shared item box, and escaping enemies."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is there co-op or multiplayer in Dead of Darkness 2?",
+          "answer": "No. Dead of Darkness 2 is a single-player survival horror game, so there is no co-op or multiplayer mode."
+        },
+        {
+          "question": "How should beginners start Dead of Darkness 2?",
+          "answer": "Read our Dead of Darkness 2 beginner guide: learn your inventory and combine buttons, keep a light core kit, finish weakened enemies with a knife, and bank one panic medkit for scripted encounters."
         }
       ]
     },
