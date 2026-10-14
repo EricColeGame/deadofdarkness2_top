@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Dead of Darkness 2 Wiki",
+    "shortName": "Dead of Darkness 2",
+    "tagline": "サバイバルホラー攻略・ウォークスルー・秘密",
+    "description": "Dead of Darkness 2 Wikiでは、ホラーの攻略、ウォークスルー、キャラクター、秘密、ゲームプレイのコツなど、暗黒の冒険を生き延びるために必要な情報をまとめています。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "maps": "マップ",
+    "mechanics": "メカニクス",
+    "platforms": "プラットフォーム",
+    "release": "リリース",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Dead of Darkness 2 Wiki - ガイド・攻略・秘密",
+      "description": "Dead of Darkness 2 Wikiでは、ホラーの攻略、ウォークスルー、キャラクター、秘密、ゲームプレイのコツなど、暗黒の冒険を生き延びるために必要な情報をまとめています。"
+    },
+    "hero": {
+      "eyebrow": "サバイバルホラーアドベンチャー",
+      "title": "Dead of Darkness 2 Wiki",
+      "description": "Dead of Darkness 2は、探索、謎解き、サバイバル、そして雰囲気あふれるゲームプレイで暗い秘密を暴くことに重点を置いたホラーアドベンチャーゲームです。",
+      "stats": [
+        "ストーリーと世界観",
+        "キャラクターとキャスト",
+        "マップとパズル",
+        "サバイバルのコツ"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steamでプレイ",
+      "tertiaryCta": "公式トレーラーを見る",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Dead of Darkness 2の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "初心者ガイドでは、操作、キャラクター切り替え、Goldren Creekでの最初の数時間など、サバイバルホラーの基本を解説します。"
+        },
+        {
+          "number": "2",
+          "title": "戦闘の基本",
+          "description": "弾薬は乏しく敵は手強い。ナイフと斧のタイミング、弾丸を使うべき場面、奇襲から生き延びる方法を学びましょう。"
+        },
+        {
+          "number": "3",
+          "title": "クラフトと強化",
+          "description": "回復アイテムを組み合わせて強力な救急キットを作り、武器パーツを賢く使って脆弱な装備を頼れるサバイバル装備に変えましょう。"
+        },
+        {
+          "number": "4",
+          "title": "サバイバルのコツ",
+          "description": "所持重量を管理し、物資を節約し、すべての資料を読んでGoldren Creekに潜む謎を生き延びましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "キャラクター切り替え",
+        "武器ティアリスト",
+        "全ボス"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "Goldren Creekでの最初の夜を、操作・インベントリ・サバイバルの計画とともに始めましょう。",
+          "href": "/guide/dead-of-darkness-2-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "リリース日情報",
+          "description": "Dead of Darkness 2の発売日、対応プラットフォーム、ウィッシュリスト状況について確認されているすべて。",
+          "href": "/release/dead-of-darkness-2-release-date"
+        },
+        {
+          "badge": "新着",
+          "title": "キャラクターとキャスト",
+          "description": "Jun Takehara、Felton、そしてGoldren Creekの謎を支える28人のキャスト。",
+          "href": "/characters/dead-of-darkness-2-characters"
+        },
+        {
+          "badge": "人気",
+          "title": "武器と戦闘",
+          "description": "ナイフ、斧、サブマシンガン、火炎放射器を弾薬コストと重量で比較。",
+          "href": "/mechanics/dead-of-darkness-2-combat"
+        },
+        {
+          "badge": "人気",
+          "title": "ボスと敵",
+          "description": "弾丸一発が重要なGoldren Creekの恐怖にどう備えるか。",
+          "href": "/guide/dead-of-darkness-2-bosses"
+        },
+        {
+          "badge": "新着",
+          "title": "パズルと秘密",
+          "description": "手がかり探し、隠し通路、各パズル部屋でのキャラクター切り替え。",
+          "href": "/mechanics/dead-of-darkness-2-puzzles"
+        },
+        {
+          "badge": "人気",
+          "title": "マップとナビゲーション",
+          "description": "ルート計画、運搬重量、街を横断するアイソメトリック探索。",
+          "href": "/maps/dead-of-darkness-2-map"
+        },
+        {
+          "badge": "更新",
+          "title": "サバイバルのコツ",
+          "description": "資源管理、装備構成、探索のための12の戦略。",
+          "href": "/guide/dead-of-darkness-2-tips"
+        },
+        {
+          "badge": "新着",
+          "title": "プラットフォームと移植版",
+          "description": "レトロサバイバルホラー続編の、確認済みのコンソールとPC対応。",
+          "href": "/platforms/dead-of-darkness-2-console"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Dead of Darkness 2とは？",
+      "paragraphs": [
+        "Dead of Darkness 2は、Retrofiction Gamesが開発・販売するDead of Darkness（2025年）の続編です。物語は1985年のペンシルベニア州から始まり、Jun Takeharaと旧友Feltonが、アパラチアの森の奥で負傷した少女を見つけたことをきっかけに悪夢へと引き込まれます。",
+        "完全なアイソメトリック2Dビューで作り直された本作は、古典的なサバイバルホラーに軸足を置いています。乏しい弾薬、重量制限のあるインベントリ、クラフト、パズル、そして最大3人のキャラクターのシームレスな切り替え。当ウィキでは、Goldren Creekで確認されているすべてのシステム、キャラクター、場所を扱います。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Retrofiction Games"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サバイバルホラー"
+        },
+        {
+          "label": "舞台",
+          "value": "Goldren Creek、1985年"
+        },
+        {
+          "label": "視点",
+          "value": "アイソメトリック2D"
+        },
+        {
+          "label": "キャスト",
+          "value": "28人"
+        },
+        {
+          "label": "リリース",
+          "value": "未定"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Dead of Darkness 2 Wikiを探索",
+      "description": "確認済みのリリース情報、ストーリーとキャラクターの解説、武器と戦闘のガイド、パズルのヒント、初心者向けサバイバルのコツでGoldren Creekを生き延びましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Dead of Darkness 2 リリース情報",
+          "description": "発売前に、Dead of Darkness 2の最新リリース情報、確認済みプラットフォーム、入手状況、公式発表を追いましょう。",
+          "href": "/release/dead-of-darkness-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "プラットフォーム",
+              "detail": "PC、PS5、PS4、Xbox、Switch 2で確認済み"
+            },
+            {
+              "label": "リリース",
+              "detail": "発売日は未定で、Steamではウィッシュリスト登録のみ"
+            },
+            {
+              "label": "開発元",
+              "detail": "Retrofiction Gamesが開発・販売"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Dead of Darkness 2 ストーリーガイド",
+          "description": "森で見つかった負傷した少女から町に埋もれた秘密まで、物語の設定、キャラクター、Goldren Creekの謎を追います。",
+          "href": "/guide/dead-of-darkness-2-ending",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "舞台",
+              "detail": "1985年のペンシルベニア州アパラチア地方とGoldren Creekの町"
+            },
+            {
+              "label": "主人公",
+              "detail": "Jun TakeharaとFeltonが悪夢へと引き込まれる"
+            },
+            {
+              "label": "謎",
+              "detail": "28人のキャストがすべて一つの中心的な秘密につながる"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Dead of Darkness 2 ゲームプレイガイド",
+          "description": "キャラクター切り替え、共有アイテム収納、インベントリ重量、クラフト、乏しい資源など、各部屋を形作る中核システムを学びます。",
+          "href": "/mechanics/dead-of-darkness-2-survival-horror",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "部屋を探索し、すべての資料を読んで手がかりを見つける"
+            },
+            {
+              "label": "2",
+              "detail": "最大3人のキャラクターを切り替えてパズルを解く"
+            },
+            {
+              "label": "3",
+              "detail": "共有アイテムボックスでキャラクター間の装備を受け渡す"
+            },
+            {
+              "label": "4",
+              "detail": "所持重量に注意して機動力を保つ"
+            },
+            {
+              "label": "5",
+              "detail": "回復アイテムを組み合わせ、見つけたパーツで武器を強化する"
+            },
+            {
+              "label": "6",
+              "detail": "勝てない戦いは避け、より危険な部屋のために弾薬を温存する"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Dead of Darkness 2 キャラクターガイド",
+          "description": "Goldren Creekのプレイアブルキャラクターと脇役たち、そしてそれぞれがサバイバルホラーの謎にどう関わるかを紹介します。",
+          "href": "/characters/dead-of-darkness-2-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jun",
+              "detail": "アパラチアの森で静かに暮らす主人公"
+            },
+            {
+              "label": "Felton",
+              "detail": "Junの亡き父の旧友である退役軍人"
+            },
+            {
+              "label": "少女",
+              "detail": "森で見つかった、負傷し記憶を失った子ども"
+            },
+            {
+              "label": "キャスト",
+              "detail": "Goldren Creekに縁のある28人の名付きキャラクター"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Dead of Darkness 2 武器ガイド",
+          "description": "確認済みの各武器カテゴリをダメージ、弾薬コスト、運搬重量で比較し、遭遇戦の種類ごとに合う装備構成を学びます。",
+          "href": "/mechanics/dead-of-darkness-2-combat",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ナイフ：弾薬不要で非常に軽く、弱った敵のとどめに最適"
+            },
+            {
+              "label": "A",
+              "detail": "斧：高ダメージとひるみ、強敵一人に理想的"
+            },
+            {
+              "label": "B",
+              "detail": "サブマシンガン：素早い集団制圧だが弾薬消費が激しく重い"
+            },
+            {
+              "label": "C",
+              "detail": "火炎放射器：希少な燃料で範囲封鎖、ただし重量が大きい"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dead of Darkness 2 敵ガイド",
+          "description": "弾薬の乏しさとサバイバルホラーのテンポを前提にした戦略で、敵との遭遇、追跡、脚本化された戦いに備えます。",
+          "href": "/guide/dead-of-darkness-2-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "敵",
+              "detail": "敵との遭遇は火力よりも忍耐が報われる"
+            },
+            {
+              "label": "ボス",
+              "detail": "ボス一覧は未確認なので、弾薬を節約して備える"
+            },
+            {
+              "label": "追跡",
+              "detail": "開けた場所での戦闘を避け、位置を変え出入口を利用する"
+            },
+            {
+              "label": "準備",
+              "detail": "脚本化された戦いに備えて緊急用救急キットを1つ持つ"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dead of Darkness 2 初心者ガイド",
+          "description": "最初の数時間を初心者向けに案内します。操作、中核装備の選び方、資源管理の習慣、そして早々にゲームオーバーになるミスまで。",
+          "href": "/guide/dead-of-darkness-2-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "開始前に難易度を選び、音声を調整する"
+            },
+            {
+              "label": "2",
+              "detail": "まずインベントリとアイテム合成のボタンを覚える"
+            },
+            {
+              "label": "3",
+              "detail": "中核装備を決める：近接武器1つ、銃器1つ、回復アイテム"
+            },
+            {
+              "label": "4",
+              "detail": "新しいキャラクターを入手したら共有ボックスを開く"
+            },
+            {
+              "label": "5",
+              "detail": "弾丸を節約するため、弱った敵はナイフでとどめを刺す"
+            },
+            {
+              "label": "6",
+              "detail": "脚本化された戦いやボス部屋用に緊急用救急キットを1つ蓄える"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dead of Darkness 2 ニュース更新",
+          "description": "公式の開発アップデート、トレーラー、発表をまとめ、次のDead of Darkness 2の続報を追えるようにします。",
+          "href": "/release/dead-of-darkness-2-news",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "未定",
+              "detail": "Steamの発売日はまだ未発表",
+              "badge": "保留"
+            },
+            {
+              "label": "2025",
+              "detail": "初代Dead of Darknessは2025年1月に発売",
+              "badge": "発売済み"
+            },
+            {
+              "label": "1985",
+              "detail": "続編の物語は1985年のペンシルベニア州が舞台",
+              "badge": "確認済み"
+            },
+            {
+              "label": "v1.0",
+              "detail": "今すぐウィッシュリスト登録してSteamの発売日通知を受け取る",
+              "badge": "ウィッシュリスト"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Dead of Darkness 2 FAQ",
+      "description": "Dead of Darkness 2についてよくある質問に手早く答えます。",
+      "items": [
+        {
+          "question": "Dead of Darkness 2とは何ですか？",
+          "answer": "Dead of Darkness 2は、Retrofiction Gamesによるアイソメトリック2Dのサバイバルホラーゲームです。Dead of Darkness（2025年）の続編で、1985年のペンシルベニア州Goldren Creekを舞台に、Jun TakeharaとFeltonが謎を追います。"
+        },
+        {
+          "question": "Dead of Darkness 2はいつ発売されますか？",
+          "answer": "発売日はまだ発表されていません。Dead of Darkness 2は現在Steamで「発売日未定」として登録されており、ウィッシュリストに追加して最新情報を受け取れます。"
+        },
+        {
+          "question": "Dead of Darkness 2の対応プラットフォームは？",
+          "answer": "Dead of Darkness 2はSteam経由のPCでの発売が確認されており、コンソール版はPS5、PS4、Xbox、Switch 2向けに発表されています。"
+        },
+        {
+          "question": "Dead of Darkness 2ではキャラクターを切り替えられますか？",
+          "answer": "はい。Dead of Darkness 2では特定の場面で最大3人のキャラクターを切り替えられ、開発陣はこの仕組みをパズル、共有アイテムボックスによる装備の受け渡し、敵からの脱出に活用しています。"
+        },
+        {
+          "question": "Dead of Darkness 2に協力プレイやマルチプレイはありますか？",
+          "answer": "いいえ。Dead of Darkness 2はシングルプレイのサバイバルホラーゲームなので、協力プレイやマルチプレイモードはありません。"
+        },
+        {
+          "question": "初心者はDead of Darkness 2をどう始めればよいですか？",
+          "answer": "当サイトのDead of Darkness 2初心者ガイドをお読みください。インベントリと合成ボタンを覚え、軽量な中核装備を保ち、弱った敵はナイフでとどめを刺し、脚本化された戦いに備えて緊急用救急キットを1つ蓄えましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Dead of Darkness 2を極める準備はできましたか？",
+      "description": "Goldren Creekでの最初の一歩から闇の最深部の秘密まで、当コミュニティウィキが無料で最新のガイドをお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Dead of Darkness 2 ガイド",
+    "overviewDescription": "Goldren Creekを舞台にしたDead of Darkness 2のウォークスルー、ボス対策、難易度設定、コツ、エンディング解説。"
+  },
+  "characters": {
+    "overviewTitle": "Dead of Darkness 2 キャラクター",
+    "overviewDescription": "Jun TakeharaとFeltonからJimmy、Kat、The Great Hugo、そしてGoldren Creekの幅広い顔ぶれまで、Dead of Darkness 2のキャストを紹介します。"
+  },
+  "maps": {
+    "overviewTitle": "Dead of Darkness 2 マップ",
+    "overviewDescription": "Goldren Creek、2階層、ルート計画を扱うDead of Darkness 2のナビゲーションとレイアウトガイド。"
+  },
+  "mechanics": {
+    "overviewTitle": "Dead of Darkness 2 メカニクス",
+    "overviewDescription": "Dead of Darkness 2の戦闘、操作、パズル、秘密、サバイバルホラーのシステムを解説します。"
+  },
+  "platforms": {
+    "overviewTitle": "Dead of Darkness 2 プラットフォーム",
+    "overviewDescription": "PS5、PS4、Xbox、Switch、PCにまたがるDead of Darkness 2の対応プラットフォームと移植版の詳細。"
+  },
+  "release": {
+    "overviewTitle": "Dead of Darkness 2 リリース",
+    "overviewDescription": "Dead of Darkness 2の発売日情報、トレーラー、ティザー、最新ニュース。"
+  },
+  "community": {
+    "overviewTitle": "Dead of Darkness 2 コミュニティ",
+    "overviewDescription": "Dead of Darkness 2に関するコミュニティの議論、Redditの話題、リーク情報のまとめ。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからもう一度お試しください。"
+  },
+  "footer": {
+    "aboutTitle": "Dead of Darkness 2 Wiki",
+    "about": "Dead of Darkness 2 Wikiは、ストーリー、キャラクター、マップ、パズル、エンディング、サバイバルホラーのコツを扱う独立したファン制作のガイドハブです。新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Dead of Darkness 2 Wiki. Retrofiction GamesおよびDead of Darkness 2とは提携していません。",
+    "description": "Goldren Creekを舞台にした物語主導のサバイバルホラーアドベンチャー。資料を読み、パズルを解き、暗闇を生き延びましょう。",
+    "playGame": "SteamでDead of Darkness 2をプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "characterGuides": "キャラクターガイド",
+    "bossGuides": "ボスガイド",
+    "mechanicsGuides": "メカニクス",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
