@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn the survival horror basics of Goldren Creek with our beginner guide covering controls, character switching, and your first hours in the dark."
+          "description": "Learn the survival horror basics of Goldren Creek: character switching, a weight-limited inventory, and the resource habits that keep your first hours alive."
         },
         {
           "number": "2",
           "title": "Combat Basics",
-          "description": "Ammo is scarce and enemies hit hard. Learn knife and axe timing, when to spend a bullet, and how to break out of an ambush alive."
+          "description": "Ammo and healing are scarce, so learn knife and axe timing, when a bullet is worth spending, and how to break out of an ambush alive."
         },
         {
           "number": "3",
-          "title": "Crafting & Upgrades",
-          "description": "Combine healing items into stronger medkits and spend weapon parts wisely to turn a fragile kit into a reliable survival loadout."
+          "title": "Character Switching",
+          "description": "Swap between up to three characters, use their positions to solve puzzles, and route gear through the shared item box before a fight."
         },
         {
           "number": "4",
-          "title": "Survival Tips",
-          "description": "Manage inventory weight, ration supplies, and read every file to survive the mysteries waiting in Goldren Creek."
+          "title": "Crafting & Upgrades",
+          "description": "Combine healing items into stronger medkits and spend weapon parts on the firearm you actually carry to stretch a lean loadout."
         }
       ]
     },
@@ -131,8 +131,8 @@
     "aboutGame": {
       "title": "What is Dead of Darkness 2?",
       "paragraphs": [
-        "Dead of Darkness 2 is the sequel to Dead of Darkness (2025), developed and published by Retrofiction Games. The story opens in Pennsylvania, 1985, where Jun Takehara and her old friend Felton are pulled into a nightmare after finding a wounded girl deep in the Appalachian woods.",
-        "Rebuilt in a full isometric 2D view, the sequel leans into classic survival horror: scarce ammo, a weight-limited inventory, crafting, puzzles, and seamless switching between up to three characters. Our wiki covers every confirmed system, character, and location in Goldren Creek."
+        "Dead of Darkness 2 is the sequel to Dead of Darkness (2025), developed and self-published on PC by solo studio Retrofiction Games. The story opens in rural Pennsylvania in 1985, where Jun Takehara lives a quiet life in a trailer deep in the Appalachians with her old friend Felton.",
+        "After Jun finds a wounded, memoryless girl in the woods, two suspicious policemen arrive and the night collapses into a nightmare tied to the town of Goldren Creek. Rebuilt in an isometric 2D view, the sequel leans into classic survival horror: scarce ammo, a weight-limited inventory, crafting, puzzles, and switching between up to three characters."
       ],
       "stats": [
         {
@@ -145,7 +145,7 @@
         },
         {
           "label": "Setting",
-          "value": "Goldren Creek, 1985"
+          "value": "Rural Pennsylvania, 1985"
         },
         {
           "label": "Perspective",
@@ -175,15 +175,15 @@
           "highlights": [
             {
               "label": "Platforms",
-              "detail": "Confirmed for PC, PS5, PS4, Xbox, and Switch 2"
+              "detail": "PC, PS5, PS4, Xbox, and Switch, with eastasiasoft on console ports"
             },
             {
               "label": "Release",
-              "detail": "No release date yet the game is wishlist-only on Steam"
+              "detail": "Still to be announced, with wishlisting live on Steam and GOG"
             },
             {
-              "label": "Developer",
-              "detail": "Built and published by Retrofiction Games"
+              "label": "Publisher",
+              "detail": "Retrofiction Games self-publishes PC; eastasiasoft handles consoles"
             }
           ]
         },
@@ -196,15 +196,15 @@
           "highlights": [
             {
               "label": "Setting",
-              "detail": "Pennsylvania, 1985 the Appalachians and the town of Goldren Creek"
+              "detail": "Rural Pennsylvania, 1985, and the secret town of Goldren Creek"
             },
             {
               "label": "Leads",
-              "detail": "Jun Takehara and Felton are drawn into the nightmare"
+              "detail": "Jun Takehara and Felton are drawn in by a wounded girl"
             },
             {
               "label": "Mystery",
-              "detail": "A 28-character cast all tied to one central secret"
+              "detail": "28 characters, each tied to the town's central secret"
             }
           ]
         },
@@ -225,11 +225,11 @@
             },
             {
               "label": "3",
-              "detail": "Pass gear through the shared item box between characters"
+              "detail": "Route gear through the shared item box between characters"
             },
             {
               "label": "4",
-              "detail": "Watch your inventory weight so you stay mobile"
+              "detail": "Watch inventory weight so you stay mobile in a chase"
             },
             {
               "label": "5",
@@ -254,7 +254,7 @@
             },
             {
               "label": "Felton",
-              "detail": "A veteran and old friend of Jun's late father"
+              "detail": "An old veteran and friend of Jun's late father"
             },
             {
               "label": "Girl",
@@ -262,7 +262,7 @@
             },
             {
               "label": "Cast",
-              "detail": "28 named characters connected to Goldren Creek"
+              "detail": "28 named characters tied to the Goldren Creek mystery"
             }
           ]
         },
@@ -275,19 +275,19 @@
           "highlights": [
             {
               "label": "S",
-              "detail": "Knife no ammo cost and very light for finishing weakened enemies"
+              "detail": "Knife: no ammo cost, light, best for finishing weakened enemies"
             },
             {
               "label": "A",
-              "detail": "Axe high damage and staggers, ideal for single tough foes"
+              "detail": "Axe: heavy stagger and crowd control, but slow and weighty"
             },
             {
               "label": "B",
-              "detail": "Submachine Gun rapid crowd control, but ammo hungry and heavy"
+              "detail": "Submachine gun: burst damage for crowded rooms, ammo hungry"
             },
             {
               "label": "C",
-              "detail": "Flamethrower area denial with rare fuel and heavy weight"
+              "detail": "Flamethrower: area denial with rare fuel and heavy equip load"
             }
           ]
         },
@@ -304,7 +304,7 @@
             },
             {
               "label": "Bosses",
-              "detail": "No boss roster confirmed yet, so prep with ammo discipline"
+              "detail": "Treat scripted fights as set pieces, not damage races"
             },
             {
               "label": "Chases",
@@ -333,7 +333,7 @@
             },
             {
               "label": "3",
-              "detail": "Decide a core kit: one melee weapon, one firearm, healing"
+              "detail": "Build a core kit: one melee weapon, one firearm, healing"
             },
             {
               "label": "4",
@@ -358,22 +358,22 @@
           "highlights": [
             {
               "label": "TBA",
-              "detail": "Steam release date still to be announced",
+              "detail": "Steam and GOG release dates still to be announced",
               "badge": "Pending"
             },
             {
               "label": "2025",
-              "detail": "First Dead of Darkness launched in January 2025",
+              "detail": "Dead of Darkness launched in January 2025",
               "badge": "Released"
             },
             {
               "label": "1985",
-              "detail": "Sequel story is set in Pennsylvania, 1985",
+              "detail": "Sequel story is set in rural Pennsylvania, 1985",
               "badge": "Confirmed"
             },
             {
               "label": "v1.0",
-              "detail": "Wishlist now for launch-day notifications on Steam",
+              "detail": "Wishlist now for launch-day notifications",
               "badge": "Wishlist"
             }
           ]
@@ -386,15 +386,15 @@
       "items": [
         {
           "question": "What is Dead of Darkness 2?",
-          "answer": "Dead of Darkness 2 is an isometric 2D survival horror game from Retrofiction Games. It is the sequel to Dead of Darkness (2025) and follows Jun Takehara and Felton through the mystery of Goldren Creek in Pennsylvania, 1985."
+          "answer": "Dead of Darkness 2 is an isometric 2D survival horror game from Retrofiction Games. It is the sequel to Dead of Darkness (2025) and follows Jun Takehara and Felton through the mystery of Goldren Creek in rural Pennsylvania, 1985."
         },
         {
           "question": "When does Dead of Darkness 2 release?",
-          "answer": "No release date has been announced yet. Dead of Darkness 2 is currently listed as to be announced on Steam, where you can wishlist it for launch updates."
+          "answer": "No release date has been announced yet. Dead of Darkness 2 is listed as to be announced on Steam and GOG, where you can wishlist it for launch updates."
         },
         {
           "question": "What platforms is Dead of Darkness 2 on?",
-          "answer": "Dead of Darkness 2 is confirmed for PC via Steam, with console versions announced for PS5, PS4, Xbox, and Switch 2."
+          "answer": "Dead of Darkness 2 is confirmed for PC on Steam and GOG, plus PS5, PS4, Xbox, and Nintendo Switch, with eastasiasoft handling the console ports."
         },
         {
           "question": "Can you switch characters in Dead of Darkness 2?",
